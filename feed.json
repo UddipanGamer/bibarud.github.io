@@ -1,10 +1,11 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "Bibarud - The best summaries of books, stories and articles",
+    "title": "Bibarud",
     "description": "",
     "home_page_url": "https://www.bibarud.com",
     "feed_url": "https://www.bibarud.com/feed.json",
     "user_comment": "",
+    "icon": "https://www.bibarud.com/media/website/Bibarud.-4.png",
     "author": {
         "name": "Uddipan Barman"
     },
