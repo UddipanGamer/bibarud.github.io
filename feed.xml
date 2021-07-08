@@ -3,12 +3,89 @@
     <title>Bibarud</title>
     <link href="https://www.bibarud.com/feed.xml" rel="self" />
     <link href="https://www.bibarud.com" />
-    <updated>2021-07-06T00:35:08+05:30</updated>
+    <updated>2021-07-09T02:04:15+05:30</updated>
     <author>
         <name>Uddipan Barman</name>
     </author>
     <id>https://www.bibarud.com</id>
 
+    <entry>
+        <title>Fix for key mapping in Gameloop 2021</title>
+        <author>
+            <name>Uddipan Barman</name>
+        </author>
+        <link href="https://www.bibarud.com/fix-for-key-mapping-in-gameloop-2021/"/>
+        <id>https://www.bibarud.com/fix-for-key-mapping-in-gameloop-2021/</id>
+            <category term="Explained"/>
+
+        <updated>2021-07-09T02:04:15+05:30</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://www.bibarud.com/media/posts/18/name-5.jpeg" alt="Fix for key mapping in Gameloop 2021" />
+                     Do you know what Gameloop is? I'm confident you have. If&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://www.bibarud.com/media/posts/18/name-5.jpeg" alt="Fix for key mapping in Gameloop 2021" />
+                <div class="post__toc">
+<h3>Table of Contents</h3>
+<ul>
+<li><a href="#mcetoc_1fa3t1s5k4c">What exactly is Gameloop?</a></li>
+<li><a href="#mcetoc_1fa3t1s5k4d">Fix for the key mapping in Gameloop</a>
+<ul>
+<li><a href="#mcetoc_1fa3t1s5k4e">The steps to resolving this problem, according to them, are as follows:</a></li>
+</ul>
+</li>
+<li><a href="#mcetoc_1fa3t1s5k4f">Conclusion</a></li>
+</ul>
+</div>
+<p data-changed="false" data-paragraphid="126">Do you know what Gameloop is? I'm confident you have. If you haven't already, check out Tencent Gaming Buddy. Isn't this all too familiar? Gameloop, formerly known as Tencent Gaming Buddy, is now one of the most popular Android emulators. Today, we'll discuss the Gameloop key mapping fix for the year 2021.</p>
+<p class="root-block-node" data-changed="false" data-paragraphid="127">Sure, Gameloop may lag behind other emulators (Genymotion, Virtual Box, and so on) in some areas, but you can rely on it for your gaming needs. It was made just for the purpose of playing Android games, and only that.</p>
+<h2 id="mcetoc_1fa3t1s5k4c" class="root-block-node" data-changed="false" data-paragraphid="128">What exactly is Gameloop?</h2>
+<p class="root-block-node" data-changed="false" data-paragraphid="129">Gameloop is the same as Tencent Gaming Buddy, as I previously stated. It's a popular Tencent programme for playing Android games on desktops, namely Player Unknown Battlegrounds Mobile, or PUBG Mobile for short. This is a huge benefit because it allows computer gamers who don't have enough money or don't want to buy PUBG to play PUBG Mobile through this software.</p>
+<p class="root-block-node" data-changed="false" data-paragraphid="130">The software includes buttons and settings for the majority of popular Android games, including PUBG Mobile. You don't even have to map them yourself because the procedure is completely automated and smooth.</p>
+<p class="root-block-node" data-changed="false" data-paragraphid="131">You may, however, be perplexed. Why don't we try out some other Android emulators? You certainly could, but you wouldn't be able to play it as smoothly or readily. The majority of Android emulators are designed to accommodate as many functions as possible, which can make them slow. When playing a difficult game like PUBG Mobile, this delay increases.</p>
+<p class="root-block-node" data-changed="false" data-paragraphid="132">To play the game, you must also map each key. However, Gameloop comes with these keys pre-mapped, so you can jump right in! However, there is a current problem that prevents users from using the F, G, and H keys. Let's have a look at what causes it and what we can do about it.</p>
+<figure class="post__image"><img loading="lazy"  src="https://s.gameloop.fun/gameassistant/web/0b6deeae97ae8a8cfbfb1fb713ee294e.jpeg" data-is-external-image="true"  alt="Fix for key mapping in Gameloop 2021" width="702" height="410"></figure>
+<h2 id="mcetoc_1fa3t1s5k4d" class="root-block-node" data-changed="false" data-paragraphid="133">Fix for the key mapping in Gameloop</h2>
+<p class="root-block-node" data-changed="false" data-paragraphid="134">After some investigation and numerous tests, I discovered that this is a probable Gameloop and PUBG Mobile malfunction. However, after some time, a straight solution from the Gameloop Discord server was discovered.</p>
+<h3 id="mcetoc_1fa3t1s5k4e" class="root-block-node" data-changed="false" data-paragraphid="135">The steps to resolving this problem, according to them, are as follows:</h3>
+<ul>
+<li class="root-block-node" data-changed="false" data-paragraphid="136"><strong>Step 1:</strong> To begin, launch Gameloop and launch PUBG Mobile.</li>
+<li class="root-block-node" data-changed="false" data-paragraphid="137"><strong>Step 2:</strong> Go to Settings &gt; Controls &gt; Customize from there.</li>
+</ul>
+<p>Remember that you should only use the customise tab for one movement at a time, not for driving.</p>
+<ul>
+<li class="root-block-node" data-changed="false" data-paragraphid="139"><strong>Step 3:</strong> Select Reset and Save from the drop-down menu. The Customisations option will thereafter be closed.</li>
+<li class="root-block-node" data-changed="false" data-paragraphid="140"><strong>Step 4:</strong> After you've completed the previous steps, press F11.</li>
+</ul>
+<p class="root-block-node" data-changed="false" data-paragraphid="141">As a result, the game will depart full screen mode and run in window mode.</p>
+<ul>
+<li class="root-block-node" data-changed="false" data-paragraphid="142"><strong>Step 5:</strong> On the right side of Gameloop's panel, locate and select the Keyboard option.</li>
+<li class="root-block-node" data-changed="false" data-paragraphid="143"><strong>Step 6:</strong> All of the assigned keys will now be accessible.</li>
+</ul>
+<p class="root-block-node" data-changed="false" data-paragraphid="144">Ensure that the display resolution and key mapping mode are both the same.</p>
+<p class="root-block-node" data-changed="false" data-paragraphid="145">If your resolution is 1080p, for example, your mode should be Smart 1080.</p>
+<ul>
+<li class="root-block-node" data-changed="false" data-paragraphid="146"><strong>Step 7:</strong> Save after pressing Reset.</li>
+<li class="root-block-node" data-changed="false" data-paragraphid="147"><strong>Step 8:</strong> Go to the top right and select Settings, then Clean Cache twice.</li>
+</ul>
+<p class="root-block-node" data-changed="false" data-paragraphid="148">As indicated in Gameloop's official repair, we're cleaning it twice just to be safe.</p>
+<ul>
+<li class="root-block-node" data-changed="false" data-paragraphid="149"><strong>Step 9:</strong> Launch PUBG Mobile after restarting Gameloop.</li>
+<li class="root-block-node" data-changed="false" data-paragraphid="150"><strong>Step 10:</strong> When prompted, pick the High Resolution Texture pack.</li>
+</ul>
+<p class="root-block-node" data-changed="false" data-paragraphid="151">The repair will fail if you choose a Low-Resolution texture pack.</p>
+<ul>
+<li class="root-block-node" data-changed="false" data-paragraphid="152"><strong>Step 11:</strong> Go back to the PUBG Mobile settings, then controls and customisations, and execute another reset.</li>
+</ul>
+<p class="root-block-node" data-changed="false" data-paragraphid="153">This method should simply resolve your issue, allowing you to continue playing the game without interruption.</p>
+<h2 id="mcetoc_1fa3t1s5k4f" class="root-block-node" data-changed="false" data-paragraphid="154">Conclusion</h2>
+<p class="root-block-node" data-changed="false" data-paragraphid="155" data-from-init="true">The accompanying essay covered many approaches to resolving Gameloop's key mapping issues. I hope you found the information in this post useful. Check out <a href="https://www.gameloop.com/" title="Gameloop" target="_blank" rel="noopener noreferrer">Gameloop </a>if you don't already have it.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>What does the phrase &quot;no couriers nearby&quot; on Uber Eats mean? (2021)</title>
         <author>
@@ -527,64 +604,6 @@
 </div>
 </div>
 </div>
-</div>
-</div>
-            ]]>
-        </content>
-    </entry>
-    <entry>
-        <title>Things Google is doing wrong with its search algorithms</title>
-        <author>
-            <name>Uddipan Barman</name>
-        </author>
-        <link href="https://www.bibarud.com/how-google-search-is-getting-fooled-by-news-websites/"/>
-        <id>https://www.bibarud.com/how-google-search-is-getting-fooled-by-news-websites/</id>
-            <category term="opinions"/>
-
-        <updated>2021-06-02T16:11:50+05:30</updated>
-            <summary>
-                <![CDATA[
-                        <img src="https://www.bibarud.com/media/posts/2/Blue-Aquarium-Photo-Facebook-Cover-min.jpg" alt="" />
-                     Disclaimer: All the things said in this article are all my&hellip;
-                ]]>
-            </summary>
-        <content type="html">
-            <![CDATA[
-                    <img src="https://www.bibarud.com/media/posts/2/Blue-Aquarium-Photo-Facebook-Cover-min.jpg" alt="" />
-                <div data-mobiledoc="{&quot;version&quot;:&quot;0.3.2&quot;,&quot;atoms&quot;:[],&quot;cards&quot;:[[&quot;markdown&quot;,{&quot;markdown&quot;:&quot;![39fc63ca-d98a-4524-8019-9c4f8dc2d719-2](http://bibarud.com/content/images/2021/03/39fc63ca-d98a-4524-8019-9c4f8dc2d719-2.png)&quot;}]],&quot;markups&quot;:[[&quot;strong&quot;]],&quot;sections&quot;:[[1,&quot;p&quot;,[[0,[0],1,&quot;Disclaimer:&quot;],[0,[],0,&quot; All the things said in this article are all my thoughts and observances, it might not be relevant to any single user, but as a whole, it might be a big issue. None of the images or words used in this article are meant to hurt any person or firm">
-<div>
-<p><strong>Disclaimer:</strong> All the things said in this article are all my thoughts and observances, it might not be relevant to any single user, but as a whole, it might be a big issue. None of the images or words used in this article are meant to hurt any person or firm's feelings or reputation.</p>
-<p>Google is the king of search; even google is so big that other companies can't beat it in market share and revenue. Google is a very complex and very advanced search engine; Google is the smartest search engine with its AI features. There are no close competitors of google search.</p>
-<p>Since the launch of google search in 1988, Google has gained many users and is rapidly growing today at a very fast pace. Billions of quarries are searched for daily on google. Google tries to provide the exact and most relevant answer from the web to its users for each question.</p>
-<p>So, far as a google user, it's been fantastic to search for something on google. We all know that the answer to anything will be on google. But, things tend to worsen when it comes to few things. Especially if your not a conventional google search user and you use google search for your business.</p>
-<p>You use Google to promote your blog or your website to the users who are searching for it. Generally, it's very hard to remember every domain name on the internet. And as there are tons of domains and websites available on the internet, the user would be helpless if they need to remember them all.</p>
-<p>So, google saves the user and the websites and their owners by showing or ranking websites on the google search according to the relevancy of their content, making it easier for users and websites. That way, websites could earn their revenue or serve their purpose, and the user could get the answer or find the things they are looking for.</p>
-<p>But, the main problem arises with the search results that Google shows. There is no doubt that Google is very advanced and not just a simple programming or code line to search the web. Google has more than 200 factors that come into play regarding SEO and rankings for websites and blogs. Google can't be wrong here, right?</p>
-<p>Well, it would be a little disappointing to hear for you as a user, but it's not right at all. See, Google search is advanced, and there is no doubt, but still, it's getting fooled by many websites. Many websites are doing black hat SEO and other things to trigger the algorithm, but I am not talking about those. The websites that I am talking about are the NEWS or so-called NEWS websites.</p>
-<h2>How is Google getting fooled by News Websites?</h2>
-<p>The question arises in everyone's mind after knowing how google search gets fooled by news websites. After all, they have a separate place for themselves; the news websites gain traffic from google news and not much from google searches. Right? Well, wrong, these News websites, or so-called news websites, are doing everything or writing about anything other than providing news.</p>
-<p>Okay, let me explain. A user searches for something on google which is not news or is not related to it; the search appears in front of the user; if you look carefully into the domains of the websites appearing on the first page on the google search results, those are all news websites.</p>
-<p>Even I have one more specific and better example to demonstrate. There's one illegal and very popular keyword called the "Tamil Rockers" (For context Tamil Rockers is a group of individuals, that used to do piracy of movies before its even released on Theatres. They later were arrested by the Police and their websites were also taken down). If you search it on google, generally, you should expect to get some illegal movies downloading websites appearing on search. But instead, what appears are the news websites.</p>
-<p>If you inspect the screenshot that I have provided, These are the top 10 results on Google search for the keyword "Tamil Rockers". You can easily see all the News websites appearing. Well, yeah, I get it. It's their website, and they can write or publish anything. Who am I to say.</p>
-<p>Well, I don't have any problems with what they write and what they don't, and I don't care if they are ranking for any illegal or legal keywords. All I care about is that Google search is so advanced and still gets fooled by these news websites up to the extent that these news websites take 70% of the web traffic without providing any useful, valuable content.</p>
-<p>All these news websites write 300 - 400 word articles on very popular keywords that are searched in millions on google and get ranked quickly, as they are more reputed in Google's eye, and it doesn't matter what they are providing to the user. They will eventually get up ranking on the higher positions of google search.</p>
-<p>Well, what's wrong with that? These are reputed news sites, so there is nothing wrong with getting ranked higher. Well, my friends, that's what is wrong.</p>
-<p>See most of the websites or blogs on the internet to provide users value and generate revenue. Now, if any new or good website is providing more valuable content, giving their best to bring up fully researched articles, that contain full information for the users, but couldn't get ranked on Google search due to these reputed news sites that are providing way less valuable content to the user.</p>
-<p>Eventually, the better website will not get any traffic and will not generate much revenue for their content; on the other hand, these reputed News sites would get wealthier day by day without providing any value.</p>
-<p>After all, it's a very big loss for the good websites providing very good content out on the internet. But the biggest loss is faced by the users. Often, users are not satisfied by any web site's content and have to look for others and spend their valuable time searching more for what they could have found easily on those websites providing good content.</p>
-<p>Due to the Google search algorithm, those good websites would never outperform these so-called News websites. Thus never reaching the userbase they should have got.</p>
-<h2>What's the solution?</h2>
-<p>I have repeatedly repeated that Google is very advanced uses a lot of AI and machine learning for its algorithm, and it tires that its users get the best results. If that's the case, why can't google filter these news sites' valueless content? Or are they blind when it comes to these websites?</p>
-<p>Many good content creators create great content and try everything they can to improve it and still don't get ranked. Well, I don't have the solution to that. I am nobody to say something, and I am sure that there would be no changes if I say also. After all, Google is a business too.</p>
-<p>Google wants its users to spend more time on their search results to show them ads and generate more revenue. Maybe that could be the reason that Google becomes blind when it comes to these news websites.</p>
-<p>Because see if a user doesn't get the full answer of their quarries in a single website, they visit multiple to get the rest of the information. All these websites more or less use Google's Ads Sense or are partnered with google somehow; if any particular user visits more websites, it results in more impressions of ads, thus earning google a lot more than what it would have got if the user only visited a single website.</p>
-<p>That could be the reason why Google is lazy or biased when it comes to search results. This might not be true, as this is just my assumption and not based on any evidence. This is just common sense that any company would want to earn more revenue. After all, that's what they are for, Google is not a charity, so it's not just there to help people.</p>
-<h2>Verdict</h2>
-<p>If the user is the main priority of any of these big corporations and businesses, they should worry about their users. After all, they are there because their users are using their service or product.</p>
-<p>And when it comes to Google, one of the most technologically advanced companies on the planet, they could have filtered the web and sort the rankings easily if they are not doing it. Maybe there's some reason for that too.</p>
-<p>But the thing that is hurting the most is spending hours of work to provide information and not getting ranked because of these news websites. The fault is not of these news websites; they are also doing their job to earn more revenue.</p>
-<p>The main culprit is google here because it knows what's going on, but it's acting as everything's fine. The main loser here is the users and the small websites trying their best to find their way. And there is no loos of google and these news websites, as together they are earning a ton of revenue, which is their main motto.</p>
-<p> </p>
 </div>
 </div>
             ]]>
