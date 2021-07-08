@@ -3,7 +3,7 @@
     <title>Bibarud</title>
     <link href="https://www.bibarud.com/feed.xml" rel="self" />
     <link href="https://www.bibarud.com" />
-    <updated>2021-07-09T02:04:15+05:30</updated>
+    <updated>2021-07-09T02:13:36+05:30</updated>
     <author>
         <name>Uddipan Barman</name>
     </author>
@@ -18,7 +18,7 @@
         <id>https://www.bibarud.com/fix-for-key-mapping-in-gameloop-2021/</id>
             <category term="Explained"/>
 
-        <updated>2021-07-09T02:04:15+05:30</updated>
+        <updated>2021-07-09T02:13:36+05:30</updated>
             <summary>
                 <![CDATA[
                         <img src="https://www.bibarud.com/media/posts/18/name-5.jpeg" alt="Fix for key mapping in Gameloop 2021" />
@@ -57,7 +57,7 @@
 </ul>
 <p>Remember that you should only use the customise tab for one movement at a time, not for driving.</p>
 <ul>
-<li class="root-block-node" data-changed="false" data-paragraphid="139"><strong>Step 3:</strong> Select Reset and Save from the drop-down menu. The Customisations option will thereafter be closed.</li>
+<li class="root-block-node" data-changed="false" data-paragraphid="139"><strong>Step 3:</strong> Select Reset and Save from the menu. The Customisations option will thereafter be closed.</li>
 <li class="root-block-node" data-changed="false" data-paragraphid="140"><strong>Step 4:</strong> After you've completed the previous steps, press F11.</li>
 </ul>
 <p class="root-block-node" data-changed="false" data-paragraphid="141">As a result, the game will depart full screen mode and run in window mode.</p>
@@ -82,7 +82,7 @@
 </ul>
 <p class="root-block-node" data-changed="false" data-paragraphid="153">This method should simply resolve your issue, allowing you to continue playing the game without interruption.</p>
 <h2 id="mcetoc_1fa3t1s5k4f" class="root-block-node" data-changed="false" data-paragraphid="154">Conclusion</h2>
-<p class="root-block-node" data-changed="false" data-paragraphid="155" data-from-init="true">The accompanying essay covered many approaches to resolving Gameloop's key mapping issues. I hope you found the information in this post useful. Check out <a href="https://www.gameloop.com/" title="Gameloop" target="_blank" rel="noopener noreferrer">Gameloop </a>if you don't already have it.</p>
+<p class="root-block-node" data-changed="false" data-paragraphid="155" data-from-init="true">The accompanying post covered many approaches to resolving Gameloop's key mapping issues. I hope you found the information in this post useful. Check out <a href="https://www.gameloop.com/" title="Gameloop" target="_blank" rel="noopener noreferrer">Gameloop </a>if you don't already have it.</p>
             ]]>
         </content>
     </entry>
